@@ -38,7 +38,7 @@ msgstr "Laarzen van het Testen Van Hele Grote Kaarten"
 
 #: ../items/items.txt:25
 msgid "feet"
-msgstr ""
+msgstr "voeten"
 
 #: ../items/items.txt:29
 msgid "speed"
@@ -70,7 +70,7 @@ msgstr "Dit boek draagt het zegel van de Avergarde"
 
 #: ../items/items.txt:50
 msgid "quest"
-msgstr ""
+msgstr "Zoektocht"
 
 #: ../items/items.txt:57
 msgid "Averguard Key"
@@ -86,7 +86,7 @@ msgstr "Langliers Talisman"
 
 #: ../items/items.txt:70
 msgid "Etched runes surround this talisman"
-msgstr "Geëtstee runen omgevenn deze talisman"
+msgstr "Geëtste runen omgevenn deze talisman"
 
 #: ../items/items.txt:80
 msgid "Scathelocke's Spellbook"
@@ -135,7 +135,7 @@ msgstr "Krakatoa, Mierenleeuw-Ploffer"
 #: ../enemies/miner.txt:1
 #, fuzzy
 msgid "Miner"
-msgstr "Lorrie"
+msgstr "Mijnwerker"
 
 #: ../enemies/necromancer_apprentice.txt:1
 msgid "Apprentice Necromancer"
@@ -147,7 +147,7 @@ msgstr "Professor Langlier"
 
 #: ../enemies/reanimated_skeleton.txt:1
 msgid "Reanimated Skeleton"
-msgstr ""
+msgstr "Gereanimeerd Skelet"
 
 #: ../enemies/rilrak.txt:1
 msgid "Rilrak, Goblin Shaman"
@@ -208,7 +208,7 @@ msgstr "In Memoriam"
 
 #: ../maps/ancient_temple.txt:612
 msgid "Ancient Temple waypoint discovered."
-msgstr ""
+msgstr "Oude Tempel routepunt gevonden"
 
 #: ../maps/ancient_temple.txt:622
 msgid "Warp Zone"
@@ -228,7 +228,7 @@ msgstr "Boekenstandaard"
 
 #: ../maps/averguard_academy.txt:355
 msgid "\"Professor Langlier is High Sage of the Averguard.  Several volumes kept here are his own writings.\""
-msgstr "\"Professor Langlier is Hoge Wijze van de Avergarde. Een aantal boeken die hier bewaard worden, zijn door hem geschreven.\""
+msgstr "\"Professor Langlier is 'n Hoge Wijze van de Avergarde. Een aantal boeken die hier bewaard worden, zijn door hem geschreven.\""
 
 #: ../maps/averguard_academy.txt:365
 msgid "\"The Academy is only open to oathkeeping members of the Averguard.  Few others know of its existence.\""
@@ -236,7 +236,7 @@ msgstr "\"De Academie is alleen toegankelijk voor beëdigde leden van de Avergar
 
 #: ../maps/averguard_academy.txt:375
 msgid "\"The peasants could not be trusted with literacy.  Most gave up their books without incident.\""
-msgstr "\"Aan de boeren kon geen alfabetisme worden toevertrouwd. De meesten stonden hun boeken zonder incident af.\""
+msgstr "\"Aan de boeren kon geen alfabetisme worden toevertrouwd. De meesten stonden hun boeken zonder problemen af.\""
 
 #: ../maps/averguard_academy.txt:386
 msgid "This false book has a secret compartment."
@@ -252,7 +252,7 @@ msgstr "Kist"
 
 #: ../maps/averguard_academy.txt:462
 msgid "This tomb glows with magical runes."
-msgstr "Dit boekwerk licht op met gloeiende magische runen."
+msgstr "Deze tombe licht op met gloeiende magische runen."
 
 #: ../maps/averguard_academy.txt:470
 msgid "Langlier's Tomb"
@@ -265,7 +265,7 @@ msgstr "Avergarde - Atrium"
 #: ../maps/averguard_atrium.txt:264
 #, fuzzy
 msgid "Averguard Atrium waypoint discovered"
-msgstr "Avergarde - Atrium"
+msgstr "Avergarde Atrium routepunt ontdekt"
 
 #: ../maps/averguard_complex.txt:9
 msgid "Averguard Complex"
@@ -305,7 +305,7 @@ msgstr "Verzegelde Tempeldeur"
 
 #: ../maps/averguard_temple.txt:460
 msgid "You read aloud the runes on Langlier's Talisman. The Avergard Key begins to glow!"
-msgstr "Je leest de runen op Langliers Talisman overhard voor. De sleutel begint te gloeien!"
+msgstr "Hardop lees je de runen op Langliers Talisman. De sleutel begint te gloeien!"
 
 #: ../maps/averguard_temple.txt:466
 msgid "Activate Talisman"
@@ -343,18 +343,18 @@ msgstr "Je veegt het stof van de sarcofaag, dat een inscriptie verborg: \"Hier r
 msgid "Maddox's Tomb"
 msgstr "Maddox' Tombe"
 
-#: ../maps/brothers_lair_atrium.txt:8
+#: ../maps/brothers_lair_atrium.txt:8 
 msgid "Brothers' Lair Atrium"
-msgstr "Huis van de broers - Atrium"
+msgstr "Huis van de broers Atrium"
 
 #: ../maps/brothers_lair_atrium.txt:248
 #, fuzzy
 msgid "Brothers Lair Atrium waypoint discovered"
-msgstr "Huis van de broers - Atrium"
+msgstr "Huis van de broers Atrium routepunt gevonden"
 
 #: ../maps/brothers_lair_fire_hall.txt:8
 msgid "Brothers' Lair Fire Hall"
-msgstr "Huis van de broers - Vuur Hal"
+msgstr "Huis van de broers Vuur Hal"
 
 #: ../maps/brothers_lair_fire_hall.txt:346
 msgid "Runed Chest"
@@ -366,7 +366,7 @@ msgstr "\"Ik was toch iets te wild voor Pompeii -- hij is letterlijk in de lucht
 
 #: ../maps/brothers_lair_ice_hall.txt:8
 msgid "Brothers' Lair Ice Hall"
-msgstr "Huis van de broers - IJs Hal"
+msgstr "Huis van de broers IJs Hal"
 
 #: ../maps/brothers_lair_ice_hall.txt:287
 msgid "Suspicious Bookcase"
@@ -470,7 +470,7 @@ msgstr "Grotten (Niveau 1)"
 
 #: ../maps/cave1.txt:346
 msgid "Mine Cart"
-msgstr "Lorrie"
+msgstr "Mijn Lorrie"
 
 #: ../maps/cave1.txt:380
 msgid "The crumbling walls of the south tunnel are held up by planks of rotting wood."
@@ -498,7 +498,7 @@ msgstr "Grot van de levende botten (2)"
 
 #: ../maps/cave_of_living_bones2.txt:319
 msgid "This pillar is laced with cracks and crevices. Maybe with enough force it can be knocked down."
-msgstr "Deze pilaar is doorboord met schjezelfn en holten. Met genoeg kracht kan hij misschien omgelegd worden."
+msgstr "Deze pilaar is gelamineerd met scheuren en holten. Met genoeg kracht kan hij misschien omgelegd worden."
 
 #: ../maps/cave_of_living_bones2.txt:322
 msgid "Giant Pillar"
@@ -518,16 +518,16 @@ msgstr "Krat met buskruit"
 
 #: ../maps/frontier_outpost.txt:8
 msgid "Frontier Outpost"
-msgstr "Grensposten"
+msgstr "Grens wachtpost"
 
 #: ../maps/frontier_outpost.txt:273
 msgid "Shared Stash"
-msgstr ""
+msgstr "Gezamelijke Opslag"
 
 #: ../maps/frontier_outpost.txt:280
 #, fuzzy
 msgid "Frontier Outpost waypoint discovered."
-msgstr "Grensposten"
+msgstr "Grens wachtpost routepunt ontdekt"
 
 #: ../maps/frontier_plains.txt:8
 msgid "Frontier Plains"
@@ -559,7 +559,7 @@ msgstr "Verloren Mijnen (Niveau 1)"
 
 #: ../maps/lost_mines1.txt:356
 msgid "It looks like the necromancer has been raising the corpses of dead miners as his minions."
-msgstr "Het lijkt dat de dodenbezweerder de lijken van de mijnwerkers als volgelingen heeft opgeroepen."
+msgstr "Het lijkt erop dat de dodenbezweerder de lijken van de mijnwerkers als volgelingen heeft opgeroepen."
 
 #: ../maps/lost_mines1.txt:416
 msgid "A natural underground river flows through this room."
@@ -575,11 +575,11 @@ msgstr "De rivier lijkt recent te zijn opgezwollen, waardoor het gebied waar de 
 
 #: ../maps/lost_mines1.txt:483
 msgid "The undead in this room are dressed in the remnants of shredded mining clothes."
-msgstr "De ondoden in deze ruimte zijn gekleed in de resten van gescheurde mijnwerkers kledij."
+msgstr "De ondoden in deze ruimte zijn gekleed in de resten van gescheurde mijnwerkers kleren."
 
 #: ../maps/mineshaft_longsword.txt:8
 msgid "Mineshaft Longsword"
-msgstr ""
+msgstr "Mijnschacht Langzwaard"
 
 #: ../maps/river_encampment.txt:8
 msgid "River Encampment"
@@ -596,19 +596,19 @@ msgstr "Huis van de broers - Atrium"
 
 #: ../maps/white_wind.txt:8
 msgid "White Wind"
-msgstr ""
+msgstr "Witte Wind"
 
 #: ../maps/white_wind.txt:446
 msgid "You spot the abandoned tower in the distance."
-msgstr ""
+msgstr "Je ontdekt in de verte de verlaten toren"
 
 #: ../maps/white_wind.txt:454
 msgid "Looking through the grate, you confirm the tower is empty."
-msgstr ""
+msgstr "Kijkend door de poort, bevestig je dat de toren leeg is"
 
 #: ../maps/ydrakka_pass.txt:384
 msgid "Ydrakka Pass waypoint discovered."
-msgstr ""
+msgstr "Ydrakka Pas routepunt ontdekt"
 
 #: ../quests/averguard_keep.txt:8
 msgid "Defeat Ukkonen in the Goblin Warrens."
@@ -680,15 +680,15 @@ msgstr "Ren! Je wil niet geraakt worden door je eigen ontploffing!"
 
 #: ../quests/living_bones.txt:25
 msgid "Search for the name of the ice wizard to pass the statue guardian."
-msgstr "Zoek naar de naam van de ijsmagiër, om de wachter te passeren."
+msgstr "Zoek naar de naam van de ijsmagiër, om het wachters beeld te passeren."
 
 #: ../quests/living_bones.txt:30
 msgid "Search for the name of the fire wizard to pass the statue guardian."
-msgstr "Zoek naar de naam van de vuurmagiër, om de wachter te passeren."
+msgstr "Zoek naar de naam van de vuurmagiër, om het wachterbeeld te passeren."
 
 #: ../quests/living_bones.txt:35
 msgid "Search for the name of the wind wizard to pass the statue guardian."
-msgstr "Zoek naar de naam van de windmagiër, om de wachter te passeren."
+msgstr "Zoek naar de naam van de windmagiër, om het wachters beeld te passeren."
 
 #: ../quests/living_bones.txt:40
 msgid "Pass the ice statue guardian by using the name \"Scathelocke\"."
@@ -720,7 +720,7 @@ msgstr "Open Grisbons runen kist met zijn sleutel."
 
 #: ../quests/mineshaft_longsword.txt:4
 msgid "Find and defeat the Reanimated Skeleton in Mineshaft Longsword."
-msgstr ""
+msgstr "Vindt en versla het gereanimeerde Skelet in mijnschacht Langzwaard"
 
 #: ../quests/mineshaft_longsword.txt:10
 msgid "Report the defeat of the Reanimated Skeleton to Martigan."
@@ -728,15 +728,15 @@ msgstr ""
 
 #: ../quests/rotten_tower.txt:5
 msgid "Search the rotten tower south west of the Frontier Plains."
-msgstr ""
+msgstr "Zoek de verrotte toren ten zuidwesten van de grensvlakte"
 
 #: ../quests/rotten_tower.txt:10
 msgid "Inspect the tower more closely."
-msgstr ""
+msgstr "Inspecteer de toren aandachtiger"
 
 #: ../quests/rotten_tower.txt:15
 msgid "Return to Martigan and tell him about the abandoned tower."
-msgstr ""
+msgstr "Ga terug naar Martigan en vertel hem van de verlaten toren"
 
 #: ../npcs/captured_trader.txt:2
 msgid "Talrych, Captured Trader"
@@ -748,7 +748,7 @@ msgstr "Graspen, Schriftgeleerde van de Order"
 
 #: ../npcs/guill.txt:15
 msgid "Chat"
-msgstr ""
+msgstr "Gesprek"
 
 #: ../npcs/guill.txt:18
 msgid "I am Guill, a scribe with the Order. I am grateful you've come -- we are short on trained warriors due to the call-to-arms in Ancelot."
@@ -773,16 +773,16 @@ msgstr "De kobolden in deze Holen zijn onderhorig aan een krijgsheer, Ukkonen. D
 
 #: ../npcs/guill.txt:31
 msgid "Ukkonen Search"
-msgstr ""
+msgstr "Ukkonen Zoektocht"
 
 #: ../npcs/guill.txt:34
 #, fuzzy
 msgid "Ukkonen's lair is somewhere here in the Goblin Warrens."
-msgstr "Versla Ukkonen in de Kobold holen."
+msgstr "Ukkonen's onderkomen is ergens in de Kobold holen."
 
 #: ../npcs/guill.txt:37
 msgid "Ukkonen Defeated"
-msgstr ""
+msgstr "Ukkonen verslagen"
 
 #: ../npcs/guill.txt:44
 msgid "Ukkonen is defeated -- I sensed a calm in this place the moment you ended him. Take this reward for your bravery."
@@ -832,7 +832,7 @@ msgstr "Werkelijk erg jammer dat hij geïnfecteerd is geraakt. Maar goed, nu we 
 
 #: ../npcs/guill.txt:88
 msgid "Burial Chamber"
-msgstr ""
+msgstr "Grafkelder"
 
 #: ../npcs/guill.txt:93
 msgid "There is one place within the Keep that no living being has seen for centuries: the burial chamber behind Averguard Temple. From the Atrium you can access the Temple. Use your key to enter the Burial Chamber."
@@ -848,7 +848,7 @@ msgstr "De machtige aanvoerder van de Avergarde -- Heer Evan Maddox."
 
 #: ../npcs/guill.txt:100
 msgid "Key to Burial Chamber"
-msgstr ""
+msgstr "Sleutel tot de Grafkelder"
 
 #: ../npcs/guill.txt:104
 msgid "I tried the key on the Burial Chamber door but it would not open."
@@ -880,7 +880,7 @@ msgstr "Mijn ergste vermoedens zijn waar geworden. Net als de Opzichter en Profe
 
 #: ../npcs/guill.txt:131
 msgid "Maddox Defeated"
-msgstr ""
+msgstr "Maddox Verslagen"
 
 #: ../npcs/guill.txt:142
 msgid "You have risked much for the Order. Take this final reward, as your mission here is complete. The grip of necromancy over Averguard Keep is broken -- in time the remaining undead will pass over into death."
@@ -925,7 +925,7 @@ msgstr "Ah, jij bent de avonturier? Als je gevaar zoekt, ben je op de juiste ple
 #: ../npcs/martigan.txt:19
 #, fuzzy
 msgid "Goblin Camp"
-msgstr "Kobold Holen"
+msgstr "Kobold Kamp"
 
 #: ../npcs/martigan.txt:22
 msgid "We're having problems. Goblins. All the noise from our mining is drawing their attention. We can't have them thinking we're easy prey."
@@ -937,16 +937,16 @@ msgstr "Val hun Rivier Kamp stroomopwaarts aan. Nu 20 goudstukken, en 80 daar bo
 
 #: ../npcs/martigan.txt:29
 msgid "Goblin Camp Search"
-msgstr ""
+msgstr "Kobold Kamp Zoektocht"
 
 #: ../npcs/martigan.txt:32
 #, fuzzy
 msgid "The goblins have an encampment up the river from here on the west side. Clear them out and I'll pay you 80 gold."
-msgstr "De kobolden hebben een kamp stroomopwaarts van hier. Schoon dat op, en ik betaal je 80 goud."
+msgstr "De kobolden hebben een kamp stroomopwaarts van hier. Schoon dat op, en ik zal je 80 goud betalen."
 
 #: ../npcs/martigan.txt:35
 msgid "Rilrak Defeated"
-msgstr ""
+msgstr "Rilrak Verslagen"
 
 #: ../npcs/martigan.txt:42
 msgid "Unfortunate work, but my workers will sleep safe tonight. Here's your reward."
@@ -958,84 +958,84 @@ msgstr "Een lid van de order is enige dagen geleden door ons kamp getrokken. Hij
 
 #: ../npcs/martigan.txt:50
 msgid "Rotten Tower"
-msgstr ""
+msgstr "Verrotte toren"
 
 #: ../npcs/martigan.txt:53
 msgid "This region was once well guarded. There are watch towers positioned throughout these plains, but most are abandoned and crumbling now."
-msgstr ""
+msgstr "Dit gebied was eens goed beschermd. Er zijn wachttorens geplaatst over de hele vlakte, maar de meesten zijn nu gehavend en verlaten"
 
 #: ../npcs/martigan.txt:54
 msgid "I need someone to inspect the outpost tower in White Winds, south west of the Frontier Plains. Let me know if goblins have found their way inside."
-msgstr ""
+msgstr "Ik heb iemand nodig om de wachttoren in de Witte Winden te inspecteren, ten zuidwesten van de grens vlakte. Laat me weten of kobolds hun weg naar binnen hebben gevonden"
 
 #: ../npcs/martigan.txt:58
 msgid "Rotten Tower Search"
-msgstr ""
+msgstr "Verrotte Toren Zoektocht"
 
 #: ../npcs/martigan.txt:61
 msgid "Search for the abandoned tower southwest of the Frontier plains. The lands around there are called White Wind."
-msgstr ""
+msgstr "Zoek naar de verlaten toren zuidwest van de grens vlakte. Het gebied daarom heen heet de Witte Wind"
 
 #: ../npcs/martigan.txt:64
 msgid "Rotten Tower Found"
-msgstr ""
+msgstr "Verrote Toren gevonden"
 
 #: ../npcs/martigan.txt:67
 msgid "There are plenty of goblins in the White Winds area, but not near the tower."
-msgstr ""
+msgstr "Er zijn genoeg kobolds in het gebied van de witte wind, maar niet in de buurt van de toren"
 
 #: ../npcs/martigan.txt:68
 msgid "Are you sure? Did you look inside the tower?"
-msgstr ""
+msgstr "Ben je zeker? Heb je in de toren gekeken?"
 
 #: ../npcs/martigan.txt:69
 msgid "Well..."
-msgstr ""
+msgstr "Dus..."
 
 #: ../npcs/martigan.txt:75
 msgid "There are plenty of goblins in the white winds area, but not near the tower."
-msgstr ""
+msgstr "Er zijn genoeg kobolds in het gebied van de witte wind, maar niet in de buurt van de toren"
 
 #: ../npcs/martigan.txt:77
 msgid "I saw no signs of goblins through the locked iron grate door."
-msgstr ""
+msgstr "Ik zag sporen van kobolds door de gesloten groot ijzeren poort"
 
 #: ../npcs/martigan.txt:79
 msgid "Good! Have this small reward."
-msgstr ""
+msgstr "Mooi. Neem deze kleine beloning"
 
 #: ../npcs/martigan.txt:83
 #, fuzzy
 msgid "Mineshaft"
-msgstr "Lorrie"
+msgstr "Mijnschacht"
 
 #: ../npcs/martigan.txt:86
 msgid "So how's the mining business?"
-msgstr ""
+msgstr "Zo.. hoe is het in het mijnwezen?"
 
 #: ../npcs/martigan.txt:87
 msgid "Not good at all. While I was digging, my pickaxe scraped a skull that was wedged in the rock wall. Before I knew it, the nasty thing started moving and a whole body emerged. Now that thing is in there, preventing any more mining."
-msgstr ""
+msgstr "Helemaal niet goed. Terwijl ik aan het graven was, schraapte mijn houweel op een doodshoofd dat klem in de muur zat. Nog voor ik er erg in had, begon het smerige ding te bewegen en verees er een compleet lichaam. Nu dat ding er in is, kan niet meer gemijnd worden "
 
 #: ../npcs/martigan.txt:88
 msgid "Kill that skeleton for me, and I'll make it worth your while."
-msgstr ""
+msgstr "Dood dat Skelet voor me, en ik zal je belonen"
 
 #: ../npcs/martigan.txt:96
 msgid "Please take care of that skeleton. Work in the mine can't continue otherwise."
-msgstr ""
+msgstr "Alsjeblieft maak gehakt van dat Skelet. Anders kan het werk in de mijn niet doorgaan"
 
 #: ../npcs/martigan.txt:99
 msgid "Skeleton Defeated"
-msgstr ""
+msgstr "Skelet Verslagen"
 
 #: ../npcs/martigan.txt:103
 msgid "I've defeated the Reanimated Skeleton."
-msgstr ""
+msgstr "Ik heb het gereanimeerde Skelet verslagen"
 
 #: ../npcs/martigan.txt:104
 msgid "Excellent work! As promised, here's a little something for your troubles."
-msgstr ""
+msgstr "Uitstekend werk! Zoals beloofd, hier is iets voor je moeite"
 
 #: ../npcs/nerin.txt:1
 msgid "Nerin, Bowyer"
@@ -1043,7 +1043,7 @@ msgstr "Nerin, Bogemaker"
 
 #: ../npcs/statue_guardian_fire.txt:1
 msgid "Statue Guardian (Fire)"
-msgstr "Wachter (Vuur)"
+msgstr "Wachterbeeld (Vuur)"
 
 #: ../npcs/statue_guardian_fire.txt:11
 msgid "Who goes there?"
@@ -1087,7 +1087,7 @@ msgstr "Welkom, meester Vesuvvio, geniet van je verwoesting vanavond."
 
 #: ../npcs/statue_guardian_ice.txt:1
 msgid "Statue Guardian (Ice)"
-msgstr "Wachter (IJs)"
+msgstr "Wachterbeeld (IJs)"
 
 #: ../npcs/statue_guardian_ice.txt:12
 msgid "Uh... a lone adventurer?"
@@ -1103,7 +1103,7 @@ msgstr "Welkom, Meester Vlijmeloch."
 
 #: ../npcs/statue_guardian_wind.txt:1
 msgid "Statue Guardian (Wind)"
-msgstr "Wachter (Wind)"
+msgstr "Wachterbeeld (Wind)"
 
 #: ../npcs/statue_guardian_wind.txt:12
 msgid "A friend of the masters."
