@@ -132,7 +132,7 @@ msgstr "Vervloekt Stalen Schild"
 #: ../items/items.txt:290
 #, fuzzy
 msgid "Tower Shield"
-msgstr "Vurig Stalen Schild"
+msgstr "Toren Schild"
 
 #: ../items/items.txt:305
 msgid "Cloth Shirt"
@@ -259,29 +259,29 @@ msgstr "Leren Laarzen"
 
 #: ../items/items.txt:496
 msgid "Chain Coif"
-msgstr ""
+msgstr "Geringde kap"
 
 #: ../items/items.txt:509
 #, fuzzy
 msgid "Chain Cuirass"
-msgstr "Ridders Kuras"
+msgstr "Geringd Kuras"
 
 #: ../items/items.txt:522
 msgid "Chain Gloves"
-msgstr ""
+msgstr "geringde handschoenen"
 
 #: ../items/items.txt:535
 msgid "Chain Greaves"
-msgstr ""
+msgstr "Geringde Heupen"
 
 #: ../items/items.txt:548
 #, fuzzy
 msgid "Chain Boots"
-msgstr "Laarzen"
+msgstr "Geringde Laarzen"
 
 #: ../items/items.txt:564
 msgid "Plate Helmet"
-msgstr ""
+msgstr "Ridder Helm"
 
 #: ../items/items.txt:577
 #, fuzzy
@@ -290,17 +290,17 @@ msgstr "Ridders Kuras"
 
 #: ../items/items.txt:590
 msgid "Plate Gauntlets"
-msgstr ""
+msgstr "Ridder Handschoenen"
 
 #: ../items/items.txt:603
 #, fuzzy
 msgid "Plate Greaves"
-msgstr "Breedzwaard van de Veldslag"
+msgstr "Ridder's Heupen"
 
 #: ../items/items.txt:616
 #, fuzzy
 msgid "Plate Boots"
-msgstr "PhasenwechslerLaarzen"
+msgstr "Ridder Laarzen"
 
 #: ../items/items.txt:632
 msgid "Boots of Speed"
@@ -324,7 +324,7 @@ msgstr ""
 
 #: ../items/items.txt:657
 msgid "gold find"
-msgstr ""
+msgstr "goud vondst"
 
 #: ../items/items.txt:662
 #, fuzzy
@@ -370,7 +370,7 @@ msgstr "Ring van Ijs"
 
 #: ../items/items.txt:718
 msgid "Lineage Signet Ring"
-msgstr ""
+msgstr "Afstammeling Zegel Ring"
 
 #: ../items/items.txt:725
 msgid "XP gain"
@@ -386,7 +386,7 @@ msgstr "Eenmalige bescherming tegen de dood"
 
 #: ../items/items.txt:741
 msgid "Relic Hunter's Ring"
-msgstr ""
+msgstr "Relikwie jager's Ring"
 
 #: ../items/items.txt:747
 msgid "item find"
@@ -394,7 +394,7 @@ msgstr "item gevonden"
 
 #: ../items/items.txt:752
 msgid "Silent Tabi"
-msgstr ""
+msgstr "Stil Onderwerp"
 
 #: ../items/items.txt:766
 msgid "Duelist Gauntlets"
@@ -481,7 +481,7 @@ msgstr "ontwijking"
 
 #: ../items/items.txt:910
 msgid "Aether Walkers"
-msgstr ""
+msgstr "Aether Stappers"
 
 #: ../items/items.txt:921
 #, fuzzy
@@ -561,7 +561,7 @@ msgstr "Zoektocht"
 
 #: ../items/types.txt:51
 msgid "Quest Item"
-msgstr ""
+msgstr "Zoektocht Item"
 
 #: ../menus/powers.txt:16
 #, fuzzy
@@ -583,7 +583,7 @@ msgstr "Zwaai"
 
 #: ../powers/powers.txt:8
 msgid "Basic melee attack"
-msgstr "Basis Mêlee-aanval"
+msgstr "Basis slag-aanval"
 
 #: ../powers/powers.txt:21
 msgid "Channel"
