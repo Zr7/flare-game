@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../items/items.txt:4
 msgid "main"
-msgstr ""
+msgstr "hoofd"
 
 #: ../items/items.txt:5
 msgid "Lightning Rod"
